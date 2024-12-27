@@ -35,3 +35,29 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 - **Feature 5:** Mobile-friendly design with a sticky table column for an improved browsing experience when viewing numerous items.
 
 ![Screenshot of the sticky table column via mobile view.](/assets/images/table.png)
+
+## Installation
+
+The grocery store application consists of two components: the front end and the back end.
+
+    **Back End:** Handles user authentication, data storage, and provides CRUD functionalities.
+    **Front End:** Delivers the user interface for interacting with the application.
+
+**Installation Steps**
+
+    Download the required files for both the front-end and back-end components.
+    Update the .env file for the front-end component, specifying the API URL and port.
+    Update the .env file for the back-end component, ensuring the correct port number is defined.
+
+**Starting the Application**
+
+    For the back end: Run npm run start.
+    For the front end: Run npm run dev.
+
+Make sure the API URL and ports are correctly configured for seamless communication between the components.
+
+## Usage
+
+## License
+
+## Contact
