@@ -29,4 +29,9 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
   ![Screenshot of the light theme example.](/assets/images/light.png)
 
 - **Feature 4:** Features pagination and sortable table headers for easy data navigation and organization.
+
+  ![Screenshot of the sortable table headings and pagination.](/assets/images/pagination.png)
+
 - **Feature 5:** Mobile-friendly design with a sticky table column for an improved browsing experience when viewing numerous items.
+
+![Screenshot of the sticky table column via mobile view.](/assets/images/table.png)
