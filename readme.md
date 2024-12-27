@@ -15,6 +15,7 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 ## Features
 
 - **Feature 1:** The register and login pages enable new users to sign up and returning users to log in with ease.
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 - **Feature 2:** A clean and intuitive interface makes adding items quick and simple.
 - **Feature 3:** Users can seamlessly switch between dark mode and light mode for a personalized experience.
 - **Feature 4:** Features pagination and sortable table headers for easy data navigation and organization.
