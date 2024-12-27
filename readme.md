@@ -51,8 +51,8 @@ The grocery store application consists of two components: the front end and the 
 
 **Starting the Application**
 
-    For the back end: Run npm run start.
-    For the front end: Run npm run dev.
+    **For the back end:** ```Run npm run start```.
+    **For the front end:** ```Run npm run dev```.
 
 Make sure the API URL and ports are correctly configured for seamless communication between the components.
 
