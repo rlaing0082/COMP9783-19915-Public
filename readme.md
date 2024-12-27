@@ -63,7 +63,7 @@ Grocery items are logged into the system as they are purchased, including detail
 - To improve usability, items with an "Out of Stock" status are highlighted in red, while those at "25%" are highlighted in yellow.
 - Items can be edited or deleted as needed to keep the list accurate and up to date.
 
-## License
+## license
 
 GNU GENERAL PUBLIC LICENSE  
 Version 3, 29 June 2007
