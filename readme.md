@@ -40,8 +40,8 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 
 The grocery store application consists of two components: the front end and the back end.
 
-    **Back End:** Handles user authentication, data storage, and provides CRUD functionalities.
-    **Front End:** Delivers the user interface for interacting with the application.
+    Back End: Handles user authentication, data storage, and provides CRUD functionalities.
+    Front End: Delivers the user interface for interacting with the application.
 
 **Installation Steps**
 
@@ -51,8 +51,8 @@ The grocery store application consists of two components: the front end and the 
 
 **Starting the Application**
 
-    **For the back end:** ```Run npm run start```.
-    **For the front end:** ```Run npm run dev```.
+    For the back end: *Run npm run start*.
+    For the front end: __ __Run npm run dev__ __.
 
 Make sure the API URL and ports are correctly configured for seamless communication between the components.
 
