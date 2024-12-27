@@ -59,6 +59,13 @@ Make sure the API URL and ports are correctly configured for seamless communicat
 
 ## Usage
 
+Grocery items are logged into the system as they are purchased, including details such as the item name, category, sub-category, unit, status, purchase date, and notes.
+
+- As items are consumed, their status can be updated (e.g., "Out of Stock," "25%", etc.).
+- When it's time to shop, users can sort the table to quickly identify items that are out of stock.
+- To improve usability, items with an "Out of Stock" status are highlighted in red, while those at "25%" are highlighted in yellow.
+- Items can be edited or deleted as needed to keep the list accurate and up to date.
+
 ## License
 
 ## Contact
