@@ -52,7 +52,8 @@ Update the .env file for the back-end component, ensuring the correct port numbe
 **Starting the Application**
 
 **For the back end:** _Run npm run start_
-For the front end: _Run npm run dev_
+
+**For the front end:** _Run npm run dev_
 
 Make sure the API URL and ports are correctly configured for seamless communication between the components.
 
