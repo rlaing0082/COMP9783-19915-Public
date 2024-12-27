@@ -15,8 +15,12 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 ## Features
 
 - **Feature 1:** The register and login pages enable new users to sign up and returning users to log in with ease.
-  ![Screenshot of the register page.](/assets/images/register.png) ![Screenshot of the login page.](/assets/images/login.png)
+  ![Screenshot of the register page.](/assets/images/register.png)
+  ![Screenshot of the login page.](/assets/images/login.png)
 - **Feature 2:** A clean and intuitive interface makes adding items quick and simple.
+  ![Screenshot of the add items page.](/assets/images/addItems.png)
 - **Feature 3:** Users can seamlessly switch between dark mode and light mode for a personalized experience.
+  ![Screenshot of the dark theme example.](/assets/images/dark.png)
+  ![Screenshot of the light theme example.](/assets/images/light.png)
 - **Feature 4:** Features pagination and sortable table headers for easy data navigation and organization.
 - **Feature 5:** Mobile-friendly design with a sticky table column for an improved browsing experience when viewing numerous items.
