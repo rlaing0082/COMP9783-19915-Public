@@ -14,7 +14,7 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 
 ## Features
 
-- **_Feature 1: _** The register and login pages enable new users to sign up and returning users to log in with ease.
+- **_*Feature 1: *_**The register and login pages enable new users to sign up and returning users to log in with ease.
 - **_Feature 2: _**A clean and intuitive interface makes adding items quick and simple.
 - **_Feature 3: _**Users can seamlessly switch between dark mode and light mode for a personalized experience.
 - **_Feature 4: _**Features pagination and sortable table headers for easy data navigation and organization.
