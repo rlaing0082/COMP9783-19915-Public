@@ -7,7 +7,7 @@ The React Grocery List App is a lightweight and simple tool that allows multiple
 - #### [Features](#features)
 - #### [Installation](#installation)
 - #### [Usage](#usage)
-- #### [License] (#license)
+- #### [License](#license)
 - #### [Contact](#contact)
 
 ## Features
